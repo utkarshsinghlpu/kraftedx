@@ -37,11 +37,9 @@ Password: password123
 ---
 ## Diagram
 
-![Welcome Page]("https://github.com/utkarshsinghlpu/kraftedx/blob/main/Screenshot%202025-04-19%20132232.png")
-![Login Page]("https://github.com/utkarshsinghlpu/kraftedx/blob/main/Screenshot%202025-04-19%20132249.png")
-
 ## Workflow Diagram
- ![image]("https://github.com/utkarshsinghlpu/kraftedx/blob/main/nextauth.drawio.png")
+.I have attached WorkFlow diagram in github File . Please review it.
+ 
 
 
 

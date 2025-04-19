@@ -39,7 +39,7 @@ Password: password123
 ![Login Page]("C:\Users\Utkarsh\Pictures\Screenshots\Screenshot 2025-04-19 132249.png")
 
 ## Workflow Diagram
- ![image]("C:\Users\Utkarsh\Downloads\nextauth.drawio.png")
+ ![image]("https://github.com/utkarshsinghlpu/kraftedx/blob/main/nextauth.drawio.png")
 
 
 

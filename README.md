@@ -34,9 +34,11 @@ This project demonstrates a simple and secure authentication system using **Next
 
 Email: test@example.com  
 Password: password123
+---
+## Diagram
 
-![Welcome Page]("C:\Users\Utkarsh\Pictures\Screenshots\Screenshot 2025-04-19 132232.png")
-![Login Page]("C:\Users\Utkarsh\Pictures\Screenshots\Screenshot 2025-04-19 132249.png")
+![Welcome Page]("https://github.com/utkarshsinghlpu/kraftedx/blob/main/Screenshot%202025-04-19%20132249.png")
+![Login Page]("https://github.com/utkarshsinghlpu/kraftedx/blob/main/Screenshot%202025-04-19%20132249.png")
 
 ## Workflow Diagram
  ![image]("https://github.com/utkarshsinghlpu/kraftedx/blob/main/nextauth.drawio.png")

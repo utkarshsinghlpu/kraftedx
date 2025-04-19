@@ -35,7 +35,7 @@ This project demonstrates a simple and secure authentication system using **Next
 Email: test@example.com  
 Password: password123
 ---
-## Diagram
+
 
 ## Workflow Diagram
 .I have attached WorkFlow diagram in github File . Please review it.
